@@ -1,5 +1,12 @@
 # Changelog
 
+# 6.0 beta 3
+
+- [IMPROVEMENT] Lowered network latency for users in India
+
+# 6.0 beta 2
+
+- [FIX] Fixed force close on launch for users < Android 8.0
 
 # 6.0 beta 1
 
