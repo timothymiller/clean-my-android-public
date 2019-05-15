@@ -4,7 +4,7 @@
 
 - [IMPROVEMENT] Reduced app size with Android App Bundle
 - [FIX] Correct text color on Database Optimizer inspection details button.
-- [NEW] Translations added for Spanish, German, French, Dutch, Russian, Thai, and Hindi
+- [NEW] Translations added for Spanish, Hindi, German, French, Dutch, Russian, and Chinese
 
 # 6.0 beta 3
 
