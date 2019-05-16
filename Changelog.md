@@ -1,5 +1,9 @@
 # Changelog
 
+# 6.0.2
+
+- [FIX] Translation bug
+
 # 6.0.1
 
 - [FIX] DiskCleaner crash affecting Android devices running Marshmallow.
