@@ -1,10 +1,14 @@
 # Changelog
 
+# 6.0.1
+
+- [FIX] DiskCleaner crash affecting Android devices running Marshmallow.
+
 # 6.0
 
 - [IMPROVEMENT] Reduced app size with Android App Bundle
 - [FIX] Correct text color on Database Optimizer inspection details button.
-- [NEW] Translations added for Spanish, Hindi, German, French, Dutch, Russian, and Chinese
+- [NEW] Translations added for Spanish, German, French, Dutch, Russian, Thai, and Hindi
 
 # 6.0 beta 3
 
