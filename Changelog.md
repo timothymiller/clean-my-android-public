@@ -1,5 +1,13 @@
 # Changelog
 
+# 6.0.4
+
+- [FIX] Faster App performance
+
+# 6.0.3
+
+- [FIX] Database Optimizer crash fixes
+
 # 6.0.2
 
 - [FIX] Translation bug
