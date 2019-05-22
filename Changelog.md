@@ -1,5 +1,9 @@
 # Changelog
 
+# 6.0.5
+
+- [FIX] Tapping list items twice quickly does not cause crash
+
 # 6.0.4
 
 - [FIX] Faster App performance
